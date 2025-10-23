@@ -50,4 +50,4 @@ int main() {
     cout << "Cotangente: " << 1/tan(grados * 3.1416 / 180) << endl;
     
     return 0;
-}
+} 
