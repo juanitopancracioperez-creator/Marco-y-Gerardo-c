@@ -5,7 +5,7 @@ using namespace std;
 int main() {
     double a, b, c, d;
     double radianes, grados;
-    // código de marco PT
+    // código de marco PT y Gerardo 
     cout << "Ingresa el ángulo: ";
     cin >> a;
     
